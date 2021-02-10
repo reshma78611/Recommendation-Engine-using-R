@@ -39,7 +39,7 @@
 
  R Programming
  
- ## The Code regarding Movie recommendation and its dataset is present in this Repository in detail
+ **The Code regarding *Movie recommendation* and its dataset is present in this Repository in detail**
 
 
 
